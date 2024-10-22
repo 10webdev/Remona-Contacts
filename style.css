@@ -225,8 +225,9 @@ footer {
 
 .contact-details {
     margin: 20px auto;
-    padding: 0;
+    padding: 20px 0;
     max-width: 700px;
+    height: 100vh;
     text-align: center;
     border: 0px solid black;
     border-radius: 15px;
