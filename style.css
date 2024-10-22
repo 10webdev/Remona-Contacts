@@ -1,0 +1,277 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to left, #fff, #a4a4a4);
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 34px;
+    font-weight: bold;
+    
+}
+
+.navbar .menu {
+    display: flex;
+}
+
+.navbar .menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+    margin: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.navbar .menu a:hover {
+    text-decoration: underline;
+    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
+}
+
+.hamburger-menu {
+    display: none;
+    cursor: pointer;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.search-bar {
+    margin: 20px auto;
+    width: 100%;
+}
+
+.search-bar input,
+.search-bar select,
+.search-bar button {
+    padding: 10px ;
+    margin: 15px auto;
+    width: 250px;
+    border-radius: 15px;
+    display: block;
+}
+
+.featured-listings {
+    text-align: center;
+    padding: 20px;
+}
+
+.slider {
+      position: relative;
+      width: 100%;
+      max-width: 1300px;
+      margin: 0;
+      overflow: hidden;
+    }
+
+    .slide {
+      display: none;
+    }
+
+    .slide.active {
+      display: block;
+    }
+
+    .prev, .next {
+      position: absolute;
+      top: 50%;
+      width: 30px;
+      height: 30px;
+      transform: translateY(-50%);
+      background-color: transparent;
+      color: #000;
+      border: none;
+      border-radius: 50%;
+      font-size: 16px;
+      font-size: larger;
+      cursor: pointer;
+    }
+
+.prev:hover,
+.next:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+    .prev {
+      left: 10px;
+    }
+
+    .next {
+      right: 10px;
+    }
+
+.listings  {
+    text-align: center;
+    width: 100%;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px 10px;
+    width: 290px;
+    height: 400px;
+    display: inline-table;
+    text-align: left;
+    background: #ccc;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    word-wrap: break-word;
+}
+
+.card:hover {
+    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
+}
+
+.card > h3 {
+    text-align: center;
+    font-size: 24px;
+    width: 100%;
+    background-image: linear-gradient(to left, #fff, #a4a4a4);;
+    padding: 20px 0;
+    margin-top: 0;
+    border-radius: 15px 15px 0 0;
+    box-shadow:0 5px 5px rgb(255, 255, 255, 1);
+}
+
+.card > p {
+    margin: 10px;
+}
+
+.card > h4, p {
+    display: inline;
+}
+
+.vmc {
+    max-width: 100%;
+    text-align: right;
+    padding: 35px;
+}
+
+.vm {
+    text-decoration: none;
+    color: #333;
+    background: #ccc;
+    box-shadow: 0 0 20px rgba(1, 1, 1, 0.9);
+    padding: 10px 35px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-size: 18px;
+    border: 2px 0x solid #333;
+}
+
+.vm:hover {
+    color: #fff;
+    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
+    background: #bbb;
+}
+
+
+footer {
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
+    border-radius: 15px;
+}
+
+.social-media svg {
+    width: 30px;
+    margin: 0 5px;
+    padding: 20px;
+    border-radius: 40%;
+}
+
+.social-media svg:hover {
+    width: 30px;
+    margin: 0 5px;
+    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
+}
+
+.contact-details {
+    margin: 20px auto;
+    padding: 0;
+    max-width: 700px;
+    text-align: center;
+    border: 0px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    line-height: 20px;
+}
+
+.contact-details > h1, p {
+    display: block;
+}
+
+.ntsebe {
+    width: fit-content;
+    padding: 1rem;
+    text-align: left;
+    margin: auto;
+}
+
+.ntsebe > p {
+    font-weight: 800;
+}
+
+address {
+    font-weight: 700;
+    margin-left: .5rem;
+}
+
+@media (max-width: 768px) {
+    .navbar .menu {
+        display: none;
+        flex-direction: column;
+        background-color: #333;
+        position: absolute;
+        top: 50px; /* Adjust as needed */
+        right: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .navbar .menu a {
+        padding: 15px;
+    }
+
+    .hamburger-menu {
+        display: block;
+    }
+
+    .menu.active {
+        display: flex;
+    }
+}
