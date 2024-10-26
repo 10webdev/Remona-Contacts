@@ -214,20 +214,18 @@ h1 {
 
 .vm {
     text-decoration: none;
-    color: #333;
-    background: #ccc;
-    box-shadow: 0 0 20px rgba(1, 1, 1, 0.9);
-    padding: 10px 35px;
-    border-radius: 15px;
-    font-weight: 600;
-    font-size: 18px;
-    border: 2px 0x solid #333;
+    box-shadow: 0 0 5px rgba(1, 1, 1, 0.9);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 10px 25px;
+    border-radius: 25px;
+    background-image: linear-gradient(to left, #fff, #a4a4a4);
 }
 
 .vm:hover {
-    color: #fff;
-    box-shadow: 0 0 20px rgba(157, 157, 157, 0.5);
-    background: #bbb;
+    box-shadow: 0 0 5px rgba(157, 157, 157, 0.5);
+    background-image: linear-gradient(to left, #a4a4a4, #fff);
 }
 
 
