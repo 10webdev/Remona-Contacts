@@ -1,3 +1,12 @@
+// Hamburger menu functionality
+const hamburger = document.getElementById('hamburger');
+const menu = document.getElementById('menu');
+
+hamburger.addEventListener('click', () => {
+    menu.classList.toggle('active');
+});
+
+// Slider functionality
 let currentSlide = 0;
 const slides = document.querySelectorAll('.slide');
 const totalSlides = slides.length;
@@ -19,17 +28,7 @@ function autoSlide() {
 
 autoSlide();
 
-// Hamburger menu functionality
-const hamburger = document.getElementById('hamburger');
-const menu = document.getElementById('menu');
-
-hamburger.addEventListener('click', () => {
-    menu.classList.toggle('active');
-});
-
 // Display json listings
-
-
 document.addEventListener("DOMContentLoaded", function () {
     // Fetch all data and display on the home page
     fetchAllData();
