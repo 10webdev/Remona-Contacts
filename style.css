@@ -56,14 +56,6 @@ span {
     height: 400px;
 }
 
-.con-tex {
-    margin: 0 auto;
-    max-width: 60%;
-    padding: 0;
-    position: absolute;
-    top: 30%;
-}
-
 .con-text {
     margin: 0 auto;
     max-width: 60%;
@@ -287,6 +279,7 @@ footer {
 
 .ntsebe > p {
     font-weight: 800;
+    margin-left: 20px:
 }
 
 address {
@@ -318,11 +311,7 @@ address {
         display: flex;
     }
 
-        .con-tex {
-            position: initial;
-        }
-
-        .con-text {
-            max-width: 90%;
-        }
+    .con-text {
+        max-width: 90%;
+    }
 }
