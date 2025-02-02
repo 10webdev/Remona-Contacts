@@ -1,0 +1,420 @@
+{
+  "businesses": [
+    {
+      "name": "The 10 Web Developers",
+      "address": "966N Bluegumbosch, Phuthaditjhaba-N, Phuthaditjhaba, Free State",
+      "phone": "071 290 5286",
+      "email": "the10webdev@gmail.com",
+      "products_services": "Web Development, Google Business Profile Optimization, Business Registration",
+      "website": ""
+    },
+    {
+      "name": "KFC Mandela Park",
+      "address": "Mandela Park Shopping Centre, Mota Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "086 010 0222",
+      "email": "",
+      "products_services": "Chicken restaurant",
+      "website": "www.kfc.co.za"
+    },
+    {
+      "name": "Merriam's Kotas",
+      "address": "6230 Mampoi Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Fast food restaurant",
+      "website": ""
+    },
+    {
+      "name": "Debonairs Pizza",
+      "address": "Shop No 17, Shopping Centre, 712 Public Road, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 5415",
+      "email": "",
+      "products_services": "Pizza restaurant",
+      "website": "www.debonairspizza.co.za"
+    },
+    {
+      "name": "Chicken Licken Qwa Qwa",
+      "address": "485 Mampoi Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 0808",
+      "email": "",
+      "products_services": "Restaurant",
+      "website": ""
+    },
+    {
+      "name": "Steers",
+      "address": "Shop 1B, Setsing Crescent Shopping Centre, Motebang Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 2510",
+      "email": "",
+      "products_services": "Hamburger restaurant",
+      "website": "www.steers.co.za"
+    },
+    {
+      "name": "Hae Tavern Carter's Place",
+      "address": "7040 Phatang Street, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Beer, Club",
+      "website": ""
+    },
+    {
+      "name": "Kwa Thabi",
+      "address": "72 Mampoi Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Fast food restaurant",
+      "website": ""
+    },
+    {
+      "name": "Pedros Qwa Qwa",
+      "address": "Maluti Crescent Shopping Centre, Phuthaditjhaba, Free State",
+      "phone": "058 050 1234",
+      "email": "",
+      "products_services": "Chicken restaurant",
+      "website": "www.pedroschicken.co.za"
+    },
+    {
+      "name": "Junkcity",
+      "address": "2239 mazibuko street, Phuthaditjhaba, Free State",
+      "phone": "065 909 7137",
+      "email": "",
+      "products_services": "Restaurant",
+      "website": ""
+    },
+    {
+      "name": "Agri Mac foods",
+      "address": "7185 Mamello street, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "060 407 5503",
+      "email": "",
+      "products_services": "Restaurant",
+      "website": ""
+    },
+    {
+      "name": "Lehaeng Shisanyama",
+      "address": "5 Mampoi Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Restaurant",
+      "website": ""
+    },
+    {
+      "name": "Lapologa",
+      "address": "Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "065 945 5892",
+      "email": "",
+      "products_services": "Restaurant",
+      "website": ""
+    },
+    {
+      "name": "Thandy's Kasi Eatery",
+      "address": "Corner makola, Mokhethi St, Phuthaditjhaba, 9866, Free State",
+      "phone": "063 336 4980",
+      "email": "",
+      "products_services": "Takeout restaurant",
+      "website": ""
+    },
+    {
+      "name": "The Chill Zone Food Delight",
+      "address": "Mokhethi St, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "074 112 9868",
+      "email": "",
+      "products_services": "Family restaurant",
+      "website": ""
+    },
+    {
+      "name": "Rise & Shine",
+      "address": "Shop 8, Midtown Ctr, Main Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Rise & Shine",
+      "website": ""
+    },
+    {
+      "name": "Qwaqwa Computer Doctors",
+      "address": "Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "064 906 6917",
+      "email": "",
+      "products_services": "Computer repair service",
+      "website": ""
+    },
+    {
+      "name": "Benji's Gymnasium",
+      "address": "Mampoi Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "078 127 3783",
+      "email": "",
+      "products_services": "Gym",
+      "website": ""
+    },
+    {
+      "name": "LaLa Market",
+      "address": "Pekwa str, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "062 998 5187",
+      "email": "",
+      "products_services": "Fruit and vegetable wholesaler",
+      "website": ""
+    },
+    {
+      "name": "RebirthTv Offices",
+      "address": "Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "081 450 1575",
+      "email": "",
+      "products_services": "Corporate office",
+      "website": ""
+    },
+    {
+      "name": "Sanda's beauty n Spa",
+      "address": "Kobodi St, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Beauty salon",
+      "website": ""
+    },
+    {
+      "name": "Sisonke Guest House",
+      "address": "Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 0914",
+      "email": "",
+      "products_services": "Hotel",
+      "website": "www.sisonkegh.co.za"
+    },
+    {
+      "name": "Sbu muzic",
+      "address": "63B side, 90 Mohale Street, Phuthaditjhaba, Free State",
+      "phone": "079 669 1301",
+      "email": "",
+      "products_services": "Manufacturer",
+      "website": ""
+    },
+    {
+      "name": "Kusasaletho Students Accomodation",
+      "address": "Ntshehele, Phuthaditjhaba, Free State",
+      "phone": "063 235 6830",
+      "email": "",
+      "products_services": "Student accomodation",
+      "website": ""
+    },
+    {
+      "name": "Home Sweet Home Guest House",
+      "address": "2757A Moeko St, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 1388",
+      "email": "",
+      "products_services": "Hotel",
+      "website": ""
+    },
+    {
+      "name": "MPD ELECTRICAL",
+      "address": "Unnamed Road, Ntshehele, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Electrical engineering",
+      "website": ""
+    },
+    {
+      "name": "St Tropez Guesthouse Qwa-Qwa",
+      "address": "7615 Maroba Street, Phuthaditjhaba, Free State",
+      "phone": "058 713 0203",
+      "email": "",
+      "products_services": "Hotel",
+      "website": ""
+    },
+    {
+      "name": "Maluti Backpackers",
+      "address": "3232 Nteu Street, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "076 193 4444",
+      "email": "",
+      "products_services": "Hotel",
+      "website": "www.malutibackpackers.co.za"
+    },
+    {
+      "name": "Maseli electrical and solar energy pty Ltd",
+      "address": "2844 Modipadi str, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "073 319 8919",
+      "email": "",
+      "products_services": "Electrical installation service",
+      "website": ""
+    },
+    {
+      "name": "Khalane's Tarven",
+      "address": "Ntshehele, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Bar",
+      "website": ""
+    },
+    {
+      "name": "Seobi And Family Group",
+      "address": "Erf 4088 Mota Rd, Phuthaditjhaba, Free State",
+      "phone": "083 670 2283",
+      "email": "",
+      "products_services": "Resident registration office",
+      "website": ""
+    },
+    {
+      "name": "Teejay Rental Rooms",
+      "address": "024 Botjhabela Witsieshoek, Phuthaditjhaba, Free State",
+      "phone": "078 728 0252",
+      "email": "",
+      "products_services": "Bed & breakfast",
+      "website": ""
+    },
+    {
+      "name": "Truss Mecca",
+      "address": "Elizabeth Ross Avenue, Phuthaditjhaba, Free State",
+      "phone": "058 713 5705",
+      "email": "",
+      "products_services": "Building materials supplier",
+      "website": "www.meccagroup.co.za"
+    },
+    {
+      "name": "Shell",
+      "address": "Mota Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 1293",
+      "email": "",
+      "products_services": "Petrol station",
+      "website": "shell.com"
+    },
+    {
+      "name": "ST Thomas Church",
+      "address": "Mota Rd, Katlehong, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Religious institution",
+      "website": ""
+    },
+    {
+      "name": "Sedibeng Blue Bottle Liquors",
+      "address": "Wessel & Mota Rd, Phuthaditjhaba-A, Phuthaditjhaba, Free State",
+      "phone": "058 713 2059",
+      "email": "",
+      "products_services": "Liquor store",
+      "website": "sedibeng.store.simplyblu.co.za"
+    },
+    {
+      "name": "BreezyWorld (Pty) Ltd",
+      "address": "Site no. 1/6 Fac no. B2, Makwatle Street, Phuthaditjhaba-C, Phuthaditjhaba, Free State",
+      "phone": "072 357 1812",
+      "email": "",
+      "products_services": "Furniture manufacturer",
+      "website": ""
+    },
+    {
+      "name": "Afrimat",
+      "address": "C, Phuthaditjhaba, Free State",
+      "phone": "058 303 8690",
+      "email": "",
+      "products_services": "Concrete factory",
+      "website": ""
+    },
+    {
+      "name": "New Vision Panelbeaters",
+      "address": "Factory A Site 43 Industrial Area No.1, Phuthaditjhaba, Free State",
+      "phone": "058 713 4765",
+      "email": "",
+      "products_services": "Auto repair shop",
+      "website": ""
+    },
+    {
+      "name": "Maverick",
+      "address": "9472, Mphatlalatsane, Phuthaditjhaba, Free State",
+      "phone": "066 494 2882",
+      "email": "",
+      "products_services": "Solar energy equipment supplier",
+      "website": ""
+    },
+    {
+      "name": "Nthabiseng Inn",
+      "address": "425, Mphatlalatsane, Phuthaditjhaba, Free State",
+      "phone": "082 538 9753",
+      "email": "",
+      "products_services": "Guest house",
+      "website": ""
+    },
+    {
+      "name": "Uhuru Village",
+      "address": "Mphatlalatsane, Phuthaditjhaba, Free State",
+      "phone": "076 194 1557",
+      "email": "",
+      "products_services": "Apartment complex",
+      "website": ""
+    },
+    {
+      "name": "THE VILLAGE Accommodation",
+      "address": "Phase 2, Clubview, Phuthaditjhaba, Free State",
+      "phone": "076 225 9057",
+      "email": "",
+      "products_services": "Self-catering accommodation",
+      "website": ""
+    },
+    {
+      "name": "Colon Health Phuthaditjhaba",
+      "address": "Eagle Cres, Phuthaditjhaba-K, Phuthaditjhaba, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Beauty salon",
+      "website": "www.colonhealth.co.za"
+    },
+    {
+      "name": "Kgatleng Transport",
+      "address": "323k Clubview Clubview, Phuthaditjhaba, Free State",
+      "phone": "076 065 1424",
+      "email": "",
+      "products_services": "Transportation service",
+      "website": ""
+    },
+    {
+      "name": "Khabonina Fast Foods",
+      "address": "611, Clubview, Phuthaditjhaba, Free State",
+      "phone": "078 123 3989",
+      "email": "",
+      "products_services": "Fast food restaurant",
+      "website": ""
+    },
+    {
+      "name": "PHOKA COFFEE",
+      "address": "300 Eagle Cres, Phuthaditjhaba-K, Phuthaditjhaba, Free State",
+      "phone": "063 018 2576",
+      "email": "",
+      "products_services": "Coffee shop",
+      "website": ""
+    },
+    {
+      "name": "CCV LOUNGE",
+      "address": "456 Elm St, City, Free State",
+      "phone": "",
+      "email": "",
+      "products_services": "Club",
+      "website": ""
+    },
+    {
+      "name": "Vochelo lodge",
+      "address": "GR2M+48, Phuthaditjhaba-K, Phuthaditjhaba, Free State",
+      "phone": "065 365 7155",
+      "email": "",
+      "products_services": "Bed and breakfast",
+      "website": ""
+    },
+    {
+      "name": "Mens Clinic International - Qwa Qwa",
+      "address": "663K Mampoi Street, Phuthaditjhaba, Free State",
+      "phone": "082 882 1583",
+      "email": "",
+      "products_services": "Doctor",
+      "website": "www.menshealth.co.za"
+    },
+    {
+      "name": "Business 9",
+      "address": "456 Elm St, City, Free State",
+      "phone": "+1 (234) 567-8910",
+      "email": "",
+      "products_services": "Product C, Product D",
+      "website": ""
+    },
+    {
+      "name": "Business 10",
+      "address": "456 Elm St, City, Free State",
+      "phone": "+1 (234) 567-8910",
+      "email": "",
+      "products_services": "Product C, Product D",
+      "website": ""
+    }
+  ]
+}
