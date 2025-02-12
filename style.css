@@ -161,6 +161,29 @@ h1 {
     display: block;
 }
 
+.slide > .card {
+    background-image: url(Make\ this.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.slide > .card:hover {
+    box-shadow: 0 0 15px rgba(220, 20, 60, 0.2);
+    background-image: url(Make\ this.png);
+}
+
+.slide > .card > h3 {
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 45px;
+}
+
+.slide > .card > p {
+    display: none;
+}
+
 .prev,
 .next {
     position: absolute;
