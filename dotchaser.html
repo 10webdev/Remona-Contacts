@@ -143,7 +143,6 @@
             <tr>
                 <th>Chosen Dot</th>
                 <th>Result</th>
-                <th>Outcome</th>
                 <th>Win/Loss Amount</th>
                 <th>New Balance</th>
             </tr>
@@ -275,7 +274,6 @@
             row.innerHTML = `
         <td>${chosenDot}</td>
         <td>${winningDotId}</td>
-        <td>${result}</td>
         <td>${winLossAmount > 0 ? "+" : ""}${winLossAmount}</td>
         <td>${balance}</td>
       `;
