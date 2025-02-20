@@ -29,13 +29,58 @@
             padding: 0;
             text-align: center;
         }
-    
-    
+
+        p {
+            font-size: 1.5em;
+            margin: 5px auto;
+            margin-bottom: 20px;
+            width: fit-content;
+            background: lightblue;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        label {
+            font-size: 18px;
+    font-weight: 600;
+        }
+
+        input {
+            border-radius: 5px;
+            width: fit-content;
+            text-align: center;
+            padding: 0;
+            font-size: 16px;
+            font-weight: 800;
+        }
+
+        button {
+            margin: 5px;
+            padding: 10px;
+            font-size: 16px;
+            color: black;
+            text-decoration: none;
+            box-shadow: 0 0 5px rgba(157, 157, 157, 0.9);
+            text-align: center;
+            font-weight: 800;
+            border-radius: 5px;
+            background-image: linear-gradient(to left, #fff, #a4a4a4);
+        }
+
+        button:hover {
+            background-image: linear-gradient(to left, #a4a4a4, #fff);
+        }
+
         canvas {
             display: block;
             margin: 20px auto;
-            border: 2px solid black;
-            width: 100%;
+            background-image: linear-gradient(to left, #a4a4a4, #fff);
+            border: 2px solid #000;
+            width: 90%;
+            height: 300px;
+            border-radius: 20px;
+            border-bottom-width: 10px;
+            border-top-width: 5px;
         }
     
         .controls {
@@ -74,13 +119,13 @@
         </nav>
     </header>
 
-    <h1>Ball and Needle Betting Game</h1>
+    <h1>Ball N Holes</h1>
     <p>Balance: <span id="balance">500</span> CTX</p>
     <div class="controls">
-        <label for="betAmount">Bet Amount (10-100 CTX):</label>
-        <input type="number" id="betAmount" min="10" max="100" value="100">
+        <label for="betAmount">Bet Amount (10-50 CTX):</label>
+        <input type="number" id="betAmount" min="10" max="50" value="50"><br>
         <label for="betHole">Choose Hole (1-6):</label>
-        <input type="number" id="betHole" min="1" max="6" value="1">
+        <input type="number" id="betHole" min="1" max="6" value="1"><br>
         <button onclick="startGame()">Place Bet</button>
     </div>
     <canvas id="gameCanvas" width="600" height="400"></canvas>
