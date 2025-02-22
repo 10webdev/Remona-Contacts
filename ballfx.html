@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8780032046281225"
+      crossorigin="anonymous"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZ4PY8LJZV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'G-DZ4PY8LJZV');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forex Trading Game</title>
+    <meta name="description"
+      content="Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="Logo.jpg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: block;
+  margin: 0;
+  color: #000;
+}
+
+#game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+            border: 1px solid #000;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            background-image: linear-gradient(to left, #a4a4a4, #fff);
+            border-radius: 10px;
+            border-bottom-width: 5px;
+            border-top-width: 5px;
+        }
+
+#controls {
+  text-align: center;
+  padding: 5px 10px;
+            font-size: 18px;
+            text-align: center;
+            font-weight: 600;
+            border-radius: 5px;
+}
+
+label {
+            margin-right: 10px;
+            font-weight: 800;
+        }
+    
+        input {
+            margin-right: 20px;
+            padding: 5px 10px;
+            font-size: 16px;
+            text-align: center;
+            font-weight: 600;
+            border-radius: 5px;
+        }
+
+#trading button {
+  margin: 5px;
+            padding: 10px 25px;
+            font-size: 18px;
+            color: black;
+            text-decoration: none;
+            box-shadow: 0 0 5px rgba(157, 157, 157, 0.9);
+            text-align: center;
+            font-weight: 800;
+            border-radius: 5px;
+            background-image: linear-gradient(to left, #fff, #a4a4a4);
+}
+
+#trading button:hover {
+  background-image: linear-gradient(to left, #a4a4a4, #fff);
+}
+
+#tradeHistory {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+#historyList {
+  list-style: none;
+  padding: 0;
+}
+
+#historyList li {
+  border-bottom: 1px solid #ddd;
+            padding: 5px 0;
+            background-image: linear-gradient(to left, #a4a4a4, #fff);
+            padding: 5px 10px;
+            font-size: 16px;
+            text-align: center;
+            font-weight: 600;
+            border-radius: 5px;
+}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo" aria-disabled="true"><a href="/" title="Logo"><span>Re</span>mona Contacts</a></div>
+    <nav class="navbar">
+      <div class="menu" id="menu">
+        <a href="/" title="Home">Home</a>
+        <a href="businesses" title="Businesses">Businesses</a>
+        <a href="jobs" title="Jobs">Jobs</a>
+        <a href="games" title="Games Portal">Games</a>
+        <a href="contact" title="Contact">Contact</a>
+      </div>
+      <div class="hamburger-menu" id="hamburger">
+        &#9776;
+      </div>
+    </nav>
+  </header>
+    
+  <div id="game-container">
+    <h1>Ball FX</h1>
+    <canvas id="priceCanvas"></canvas>
+    <div id="controls">
+      <div id="scoreboard">
+        <p>Balance: <span id="balance">1000</span> coins</p>
+        <p>Current Price: <span id="currentPrice">50</span></p>
+      </div>
+      <div id="trading">
+        <label for="tradeAmount">Trade Amount:</label>
+        <input type="number" id="tradeAmount" min="10" max="500" value="50">
+        <p id="tradeTimer" style="font-size: 16px; color: white;"></p>
+        <button id="buyTrade">Buy</button>
+        <button id="sellTrade">Sell</button>
+      </div>
+      <div id="tradeHistory">
+        <h3>Trade History</h3>
+        <ul id="historyList"></ul>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="social-media">
+      <a href="https://wa.me/27712905286" aria-label="WhatsApp">
+        <svg xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+          <path
+            d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7 .9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z" />
+        </svg>
+      </a>
+      <a href="https://www.tiktok.com/@10webdev" aria-label="TikTok">
+        <svg xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+          <path
+            d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z" />
+        </svg>
+      </a>
+    </div>
+  
+    <div class="site-map">
+      <h3>Site Map</h3>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="businesses">Businesses</a></li>
+        <li><a href="jobs">Jobs</a></li>
+        <li><a href="games">Games</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+    </div>
+  
+    <p><strong>&copy; 2024 <span>Re</span>mona Contacts. All rights reserved.</strong></p>
+  </footer>
+    
+  <script src="script.js"></script>
+  <script>
+    // script.js
+      const canvas = document.getElementById('priceCanvas');
+      const ctx = canvas.getContext('2d');
+
+      canvas.width = 200;
+      canvas.height = 300;
+
+      // Game variables
+      let balance = 1000;
+      let currentPrice = 50;
+      const ball = { x: 100, y: canvas.height / 2, radius: 10 };
+      let priceChangeInterval;
+      let tradeTimerInterval;
+      let currentTrade = null;
+      const tradeDuration = 10; // Trade duration in seconds
+      let remainingTime = 0;
+
+      const historyList = document.getElementById('historyList');
+      const balanceDisplay = document.getElementById('balance');
+      const currentPriceDisplay = document.getElementById('currentPrice');
+      const tradeTimerDisplay = document.getElementById('tradeTimer');
+
+      // Update UI
+      function updateUI() {
+        balanceDisplay.textContent = balance;
+        currentPriceDisplay.textContent = currentPrice;
+      }
+
+      // Draw ball
+      function drawBall() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.beginPath();
+        ctx.arc(ball.x, ball.y, ball.radius, 0, Math.PI * 2);
+        ctx.fillStyle = 'black';
+        ctx.fill();
+        ctx.closePath();
+
+        // Draw price line
+        ctx.fillStyle = 'black';
+        ctx.fillText(`Price: ${currentPrice}`, 10, ball.y - 10);
+      }
+
+      // Move ball to simulate price
+      function moveBall() {
+        const priceChange = Math.floor(Math.random() * 10) - 5; // Random change: -5 to +5
+        currentPrice = Math.max(10, Math.min(100, currentPrice + priceChange));
+        ball.y = canvas.height - ((currentPrice / 100) * canvas.height); // Map price to canvas height
+        drawBall();
+      }
+
+      // Start trade
+      function startTrade(type) {
+        if (currentTrade) return; // Only one trade at a time
+        const tradeAmount = parseInt(document.getElementById('tradeAmount').value);
+        if (tradeAmount > balance || tradeAmount <= 0) return;
+
+        balance -= tradeAmount;
+        currentTrade = { type, tradeAmount, openPrice: currentPrice };
+        remainingTime = tradeDuration;
+        updateUI();
+
+        // Start trade timer
+        updateTradeTimerDisplay();
+        tradeTimerInterval = setInterval(updateTradeTimer, 1000);
+
+        // Close trade after trade duration
+        setTimeout(() => closeTrade(), tradeDuration * 1000);
+      }
+
+      // Update trade timer
+      function updateTradeTimer() {
+        remainingTime--;
+        updateTradeTimerDisplay();
+
+        if (remainingTime <= 0) {
+          clearInterval(tradeTimerInterval);
+        }
+      }
+
+      // Update the trade timer display
+      function updateTradeTimerDisplay() {
+        tradeTimerDisplay.textContent = `Trade closes in: ${remainingTime}s`;
+        if (remainingTime <= 0) {
+          tradeTimerDisplay.textContent = 'Trade closed.';
+        }
+      }
+
+      // Close trade
+      function closeTrade() {
+        if (!currentTrade) return;
+
+        const result =
+          (currentTrade.type === 'Buy' && currentPrice > currentTrade.openPrice) ||
+          (currentTrade.type === 'Sell' && currentPrice < currentTrade.openPrice);
+
+        const refund = currentPrice === currentTrade.openPrice;
+        const profit = result ? currentTrade.tradeAmount * 2 : refund ? currentTrade.tradeAmount : 0;
+        balance += profit;
+
+        // Add to history
+        const li = document.createElement('li');
+        li.textContent = `${currentTrade.type} at ${currentTrade.openPrice} - Closed at ${currentPrice} (${refund ? 'Refund' : result ? 'Win' : 'Loss'})`;
+        historyList.prepend(li);
+
+        currentTrade = null;
+        updateUI();
+      }
+
+      // Event listeners
+      document.getElementById('buyTrade').addEventListener('click', () => startTrade('Buy'));
+      document.getElementById('sellTrade').addEventListener('click', () => startTrade('Sell'));
+
+      // Start game
+      updateUI();
+      priceChangeInterval = setInterval(moveBall, 1000);
+
+  </script>
+</body>
+</html>
