@@ -164,7 +164,7 @@ h1 {
 .slide > .card {
     background-image: url(Make\ this.png);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .slide > .card:hover {
