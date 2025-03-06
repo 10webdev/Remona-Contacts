@@ -283,5 +283,5 @@ www.remonacontacts.co.za
         **Operating Hours**
         **Mon - Sun:** 24 Hours
         `,
-    },
+    }
 ];
