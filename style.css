@@ -331,15 +331,11 @@ button {
     text-decoration: underline;
 }
 
-
-
-
 footer {
     background-color: transparent;
     text-align: center;
     padding: 10px;
-    margin-top: 15px;
-    box-shadow: 0 0 5px rgba(157, 157, 157, 0.5);
+    margin: 15px 0 10px;
     border-radius: 15px;
     width:100%
 }
@@ -476,7 +472,7 @@ p {
     }
 
     .con-text {
-    max-width: 95%;
+    max-width: 100%;
 }
 
     .contact-details {
