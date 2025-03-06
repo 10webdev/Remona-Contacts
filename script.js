@@ -47,6 +47,7 @@ function openArticle(index) {
     const formattedText = formatBoldText(article.text);
 
     // Set the title and formatted text with HTML interpretation
+    document.getElementById("modal-img").src = article.image;
     document.getElementById("modal-title").innerText = article.title;
     document.getElementById("modal-text").innerHTML = formattedText; // Use innerHTML
 
