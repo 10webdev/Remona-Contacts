@@ -1322,6 +1322,5 @@ http://z83.ngnscan.co.za/apply
         - Ms X Rikhotso Tel No: (012) 213 5513
         - Mr R Kgare Tel No: (012) 312 5442
         - Ms N Liwane Tel No: (012) 312 6365`,
-    },
-
+    }
 ];
