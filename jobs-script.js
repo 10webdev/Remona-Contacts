@@ -288,7 +288,7 @@ www.remonacontacts.co.za
     //Start//
     {
         title: "CASHIERS: REVENUE CLERKS (X56 POSTS)",
-
+image: "coat.png",
         text: `**Department**
         DEPARTMENT OF TRANSPORT, SAFETY AND LIAISON
         - Registering Authority: Groblershoop (!Kheis local municipality) (X2 Posts)
@@ -341,7 +341,7 @@ www.remonacontacts.co.za
 
 {
     title: "DRIVER/MESSENGER",
-
+image: "coat.png",
         text: `**Department**
 PROVINCIAL TREASURY(Mmabatho)
 
@@ -367,7 +367,7 @@ Mr. K Selebalo Tel No: (018) 388 2301`,
 
     {
         title: "FOOD AID (CLEANER)",
-
+image: "coat.png",
         text: `**Department**
 PROVINCIAL TREASURY(Mmabatho)
 
@@ -394,7 +394,7 @@ Applications should be forwarded to:
 
     {
         title: "ADMINISTRATION CLERK",
-
+image: "coat.png",
         text: `**Department**
 WESTERN CAPE EDUCATION DEPARTMENT (WCED)(Kuils River)
 
@@ -419,7 +419,7 @@ Applications must be submitted by using the following URL https://wcedonline.wes
 
     {
         title: "ADMINISTRATION CLERK: REGISTRY (MEDICAL RECORDS)",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HEALTH AND WELLNESS(Tygerberg Hospital, Parow Valley)
 
@@ -446,7 +446,7 @@ Applications are submitted online via www.westerncape.gov.za/health-jobs (click 
 
     {
         title: "DRIVER/MESSENGER (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF WOMEN, YOUTH AND PERSONS WITH DISABILITIES(Pretoria)
 
@@ -471,7 +471,7 @@ Recruitment03@dwypd.gov.za
 
     {
         title: "FOOD SERVICE AID (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF WOMEN, YOUTH AND PERSONS WITH DISABILITIES(Pretoria)
 
@@ -499,7 +499,7 @@ Recruitment_268@dwypd.gov.za
 
 {
     title: "FARM FOREMAN",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Makhathini Research Farm)
 
@@ -532,7 +532,7 @@ Post, Hand Delivered, Online & Email
 
     {
         title: "SUPPLY CHAIN MANAGEMENT CLERK: FLEET MANAGEMENT",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(North Service Centre – Richards Bay)
 
@@ -567,7 +567,7 @@ Post, Hand Delivered, Online & Email
 
     {
         title: "HUMAN RESOURCE OFFICER: LEAVE ADMINISTRATION (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT
 
@@ -603,7 +603,7 @@ Post, Hand Delivered, Online & Email
 
 {
     title: "HUMAN RESOURCE OFFICER: HUMAN RESOURCES INFORMATION SYSTEMS",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Head Office - Cedara)
 
@@ -638,7 +638,7 @@ Post, Hand Delivered, Online & Email
 
     {
         title: "GENERAL ADMINISTRATION CLERK",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Makhathini Research Station – Agricultural Livestock Research Services)
 
@@ -673,7 +673,7 @@ Post, Hand Delivered, Online & Email
 
     {
         title: "ANIMAL HEALTH ASSISTAN (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(LDARD (Placement will be done according to the needs of the department))
 
@@ -703,7 +703,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "DATA CAPTURER (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Head Office: Polokwane)
 
@@ -733,7 +733,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "ENGINEERING ASSISTANT",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Head Office: Polokwane)
 
@@ -763,7 +763,7 @@ https://erecruitment.limpopo.gov.za
 
 {
     title: "TRACTOR DRIVER (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Tompi Seleka and Madzivhandila College)
 
@@ -794,7 +794,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "HANDYMAN (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(LDARD (Placement will be done according to the needs of the department))
 
@@ -825,7 +825,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "DRIVER OPERATOR (X4 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(LDARD (Placement will be done according to the needs of the department))
 
@@ -855,7 +855,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "FARM AID (X6 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(LDARD (Placement will be done according to the needs of the department))
 
@@ -884,7 +884,7 @@ https://erecruitment.limpopo.gov.za
 
 {
     title: "FIELD RANGER (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Mara and Towoomba Research Centre)
 
@@ -915,7 +915,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "GENERAL WORKER (REDLINE GATE/ GUARD/FENCE PATROLER) (X10 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(LDARD, Vhembe District, Vhembe Far North and Vhembe Central)
 
@@ -945,7 +945,7 @@ https://erecruitment.limpopo.gov.za
 
 {
     title: "GENERAL WORKER",
-
+image: "coat.png",
         text: `**Department**
 LIMPOPO DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT(Vhembe Central)
 
@@ -975,7 +975,7 @@ https://erecruitment.limpopo.gov.za
 
     {
         title: "DRIVER",
-
+image: "coat.png",
         text: `**Department**
 KWAZULU-NATAL DEPARTMENT OF COMMUNITY SAFETY AND LIAISON(Pietermaritzburg)
 
@@ -1003,7 +1003,7 @@ Post, Hand Delivered & Online
 
     {
         title: "CHIEF SECURITY OFFICER",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Olifantsfontein)
 
@@ -1037,7 +1037,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "ADMINISTRATION CLERK",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
@@ -1068,7 +1068,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "ADMINISTRATION CLERK: PLANNING, MONITORING, EVALUATION AND REPORTING",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
@@ -1097,7 +1097,7 @@ http://z83.ngnscan.co.za/apply
 
 {
         title: "SECRETARY TO THE DIRECTOR CET CURRICULUM AND INSTITUTIONAL SUPPORT",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Polokwane)
 
@@ -1126,7 +1126,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "ADMINISTRATION CLERK",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
@@ -1155,7 +1155,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "SECRETARY TO THE DIRECTOR TO TVET MONITORING AND EVALUATION",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
@@ -1184,7 +1184,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "ADMINISTRATION CLERKS (ADMINISTRATION SUPPORT AND REGISTRATIONS OF CENTRES, AND CLAIMS (X2 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
@@ -1213,7 +1213,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "HUMAN RESOURCE CLERK: HRM SUPPORT",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Olifantsfontein)
 
@@ -1242,7 +1242,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "HUMAN RESOURCE CLERK: CORPORATE SERVICES",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pietermaritzburg)
 
@@ -1271,7 +1271,7 @@ http://z83.ngnscan.co.za/apply
 
     {
         title: "TRADESMAN AIDS: ASSESSMENT (X3 POSTS)",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Olifantsfontein)
 
@@ -1299,7 +1299,7 @@ http://z83.ngnscan.co.za/apply
 
 {
     title: "PHOTOCOPIER OPERATOR",
-
+image: "coat.png",
         text: `**Department**
 DEPARTMENT OF HIGHER EDUCATION AND TRAINING(Pretoria)
 
