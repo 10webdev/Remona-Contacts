@@ -446,7 +446,7 @@ p {
         flex-direction: column;
         background-image: linear-gradient(to left, rgba(164, 164, 164, 0.8), rgba(220, 20, 60, 0.8));
         position: absolute;
-        top: 50px;
+        top: 650px;
         /* Adjust as needed */
         right: 0;
         width: 100%;
