@@ -2,7 +2,7 @@
 const articles = [
         {
                 title: "The 10 Web Developers (Pty) Ltd.",
-                image: "image1.png",
+                image: "img/image1.webp",
                 text: `As a startup, The '10' Web Developers is passionate about understanding your unique business needs and delivering exceptional results through our innovative solutions.
 
 The '10' has partnered with skilled professionals to combines expertise in Web Development and Google Business Profile Optimization to provide comprehensive services, including website design, content creation, and targeted advertising, digital designs, and SEO among others.
@@ -36,7 +36,7 @@ tinyurl.com/10webdev
 
         {
                 title: "Remona Contacts",
-                image: "image2.png",
+                image: "img/image2.webp",
                 text: `Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.
 
         **Industry**
@@ -59,7 +59,7 @@ www.remonacontacts.co.za
 
         {
                 title: "The 10 Web Developers (Pty) Ltd.",
-                image: "image1.png",
+                image: "img/image1.webp",
                 text: `As a startup, The '10' Web Developers is passionate about understanding your unique business needs and delivering exceptional results through our innovative solutions.
 
 The '10' has partnered with skilled professionals to combines expertise in Web Development and Google Business Profile Optimization to provide comprehensive services, including website design, content creation, and targeted advertising, digital designs, and SEO among others.
@@ -93,7 +93,7 @@ tinyurl.com/10webdev
 
         {
                 title: "Remona Contacts",
-                image: "image2.png",
+                image: "img/image2.webp",
                 text: `Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.
 
         **Industry**
@@ -116,7 +116,7 @@ www.remonacontacts.co.za
 
         {
                 title: "The 10 Web Developers (Pty) Ltd.",
-                image: "image1.png",
+                image: "img/image1.webp",
                 text: `As a startup, The '10' Web Developers is passionate about understanding your unique business needs and delivering exceptional results through our innovative solutions.
 
 The '10' has partnered with skilled professionals to combines expertise in Web Development and Google Business Profile Optimization to provide comprehensive services, including website design, content creation, and targeted advertising, digital designs, and SEO among others.
@@ -150,7 +150,7 @@ tinyurl.com/10webdev
 
         {
                 title: "Remona Contacts",
-                image: "image2.png",
+                image: "img/image2.webp",
                 text: `Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.
 
         **Industry**
@@ -173,7 +173,7 @@ www.remonacontacts.co.za
 
         {
                 title: "The 10 Web Developers (Pty) Ltd.",
-                image: "image1.png",
+                image: "img/image1.webp",
                 text: `As a startup, The '10' Web Developers is passionate about understanding your unique business needs and delivering exceptional results through our innovative solutions.
 
 The '10' has partnered with skilled professionals to combines expertise in Web Development and Google Business Profile Optimization to provide comprehensive services, including website design, content creation, and targeted advertising, digital designs, and SEO among others.
@@ -207,7 +207,7 @@ tinyurl.com/10webdev
 
         {
                 title: "Remona Contacts",
-                image: "image2.png",
+                image: "img/image2.webp",
                 text: `Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.
 
         **Industry**
@@ -230,7 +230,7 @@ www.remonacontacts.co.za
 
         {
                 title: "The 10 Web Developers (Pty) Ltd.",
-                image: "image1.png",
+                image: "img/image1.webp",
                 text: `As a startup, The '10' Web Developers is passionate about understanding your unique business needs and delivering exceptional results through our innovative solutions.
 
 The '10' has partnered with skilled professionals to combines expertise in Web Development and Google Business Profile Optimization to provide comprehensive services, including website design, content creation, and targeted advertising, digital designs, and SEO among others.
@@ -264,7 +264,7 @@ tinyurl.com/10webdev
 
         {
                 title: "Remona Contacts",
-                image: "image2.png",
+                image: "img/image2.webp",
                 text: `Remona Contacts is a business details listing website that not only hosts businesses; but also offers listings for freelancers, projects, and jobs in South Africa, free of charge.
 
         **Industry**
@@ -284,13 +284,13 @@ www.remonacontacts.co.za
         **Mon - Sun:** 24 Hours
         `,
         },
-
+        
     //Start//
     
     {   
         title: "CIVIC SERVICES CLERK",
 
-        image: "coat.png",
+        image: "img/coat.webp",
 
         text: `**Department**
 DEPARTMENT OF HOME AFFAIRS(Mpumalanga: Medium Office: Mkobola)
@@ -328,7 +328,7 @@ Nelspruit
     {   
         title: "HANDYMAN: IMMOVABLE ASSETS",
 
-        image: "coat.png",
+        image: "img/coat.webp",
 
         text: `**Department**
 DEPARTMENT OF JUSTICE AND CONSTITUTIONAL DEVELOPMENT(National Office: Pretoria)
@@ -365,7 +365,7 @@ Pretoria
     {   
             title: "WORKS INSPECTOR: SCM",
 
-        image: "coat.png",
+        image: "img/coat.webp",
         
         text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Amathole West)
@@ -397,7 +397,7 @@ Applications must be submitted only via the provincial e-Recruitment system avai
         {
                 title: "SECRETARY: EDUCATION DISTRICT DIRECTOR OFFICE",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Sarah Baartman)
@@ -429,7 +429,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "SCM CLERK: ASSET AND STORES MANAGEMENT",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(OR Tambo Coastal)
@@ -461,7 +461,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "SCM CLERK: AUXILLIARY SERVICES",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Amathole West)
@@ -493,7 +493,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "ADMINISTRATION CLERK: HUMAN RESOURCE DEVELOPMENT",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Amathole West)
@@ -525,7 +525,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "ADMINISTRATION CLERK: CMC",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION
@@ -559,7 +559,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "ADMINISTRATION CLERK: CIRCUIT OFFICE",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION
@@ -594,7 +594,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "ADMINISTRATION CLERK: EXAMINATION",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Amathole East)
@@ -626,7 +626,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "ADMINISTRATION CLERK: TEACHER DEVELOPMENT",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 PROVINCIAL ADMINISTRATION: EASTERN CAPE DEPARTMENT OF EDUCATION(Alfred Nzo East)
@@ -656,7 +656,7 @@ A grade 12 certificate with no experience required.
         {
                 title: "REGISTRY CLERK",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(Head Office (East London))
@@ -691,7 +691,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "ADMINISTRATIVE CLERK",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(East London)
@@ -726,7 +726,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "RECEPTIONIST",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(Nelson Mandela Bay Metro (Gqeberha))
@@ -761,7 +761,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "ADMINISTRATIVE CLERK",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(East London)
@@ -796,7 +796,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "REGISTRY CLERK",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(East London)
@@ -831,7 +831,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "SENIOR ACCOUNTING CLERK",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(East London)
@@ -866,7 +866,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "DRIVER/MESSENGER",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 DEPARTMENT OF HUMAN SETTLEMENTS(East London)
@@ -901,7 +901,7 @@ Utilize the e-recruitment system which is available on www.ecprov.gov.za or http
         {
                 title: "REGISTRY CLERK: RECORDS MANAGEMENT",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 OFFICE OF THE PREMIER(Bhisho)
@@ -934,7 +934,7 @@ Submit only via the e-Recruitment System, available at: https://erecruitment.eco
         {
                 title: "CALL CENTRE OPERATOR",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 OFFICE OF THE PREMIER(Bhisho)
@@ -967,7 +967,7 @@ Submit only via the e-Recruitment System, available at: https://erecruitment.eco
         {
                 title: "GENERAL ASSISTANT SUPERVISOR",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 OFFICE OF THE PREMIER(Bhisho)
@@ -1001,7 +1001,7 @@ Submit only via the e-Recruitment System, available at: https://erecruitment.eco
         {
                 title: "GENERAL ASSISTANT",
 
-                image: "coat.png",
+                image: "img/coat.webp",
 
                 text: `**Department**
 OFFICE OF THE PREMIER(Bhisho)
