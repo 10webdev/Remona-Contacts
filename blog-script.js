@@ -288,7 +288,7 @@ www.remonacontacts.co.za
     //Start
     {
         title: "How to Look for and Apply for Jobs",
-        image: "job-search.jpg",
+        image: "img/art1.webp",
         text: `Finding and applying for jobs can be a challenging process, but with the right approach, you can maximize your chances of securing the right position. Whether you're a recent graduate or an experienced professional looking for a new opportunity, this guide will walk you through the key steps to an effective job search and application process.
 
         **1. Define Your Career Goals**  
@@ -357,7 +357,7 @@ www.remonacontacts.co.za
     },
     {
         title: "Article Title 2",
-        image: "image2.jpg",
+        image: "img/art1.webp",
         text: "Full content of article 2. Sed do eiusmod tempor incididunt...",
         
     }
