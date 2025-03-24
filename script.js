@@ -6,6 +6,35 @@ hamburger.addEventListener('click', () => {
     menu.classList.toggle('active');
 });
 
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("search-input");
+    const provinceFilter = document.getElementById("province-filter");
+    const jobCards = document.querySelectorAll(".blog-card");
+
+    function applyFilters() {
+        const searchText = searchInput.value.toLowerCase();
+        const selectedProvince = provinceFilter.value;
+        
+        jobCards.forEach(card => {
+            const jobTitle = card.querySelector("h2").textContent.toLowerCase();
+            const jobLocation = card.querySelector("p").textContent;
+            
+            const matchesSearch = jobTitle.includes(searchText);
+            const matchesProvince = selectedProvince === "" || jobLocation.includes(selectedProvince);
+            
+            if (matchesSearch && matchesProvince) {
+                card.style.display = "block";
+            } else {
+                card.style.display = "none";
+            }
+        });
+    }
+
+    searchInput.addEventListener("input", applyFilters);
+    provinceFilter.addEventListener("change", applyFilters);
+});
+
+
 let currentSlide = 0;
 const slides = document.querySelectorAll('.slide');
 const totalSlides = slides.length;
