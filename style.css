@@ -58,7 +58,6 @@ span {
     cursor: pointer;
 }
 
-
 .hero {
     display: grid;
     align-items: center;
@@ -130,7 +129,6 @@ span {
     margin: 0 auto;
     padding: 10px;
     overflow: hidden;
-
 }
 
 .slide {
@@ -469,6 +467,15 @@ p {
     .navbar .menu.active {
         display: flex;
     }
+
+    .slider {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
 
     .con-text {
     max-width: 100%;
