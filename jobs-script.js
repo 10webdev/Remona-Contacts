@@ -2046,5 +2046,33 @@ const articles = [
 
                 `,
 
+        }{
+                title: "Salesperson (Commission-based remote role)",
+
+                image: "img/image1.webp",
+
+                text: `
+                **Description**
+                This is a commission-based remote role for a Salesperson. The Salesperson will be responsible for identifying and reaching out to potential clients, conducting sales pitches and presentations, and closing deals. The Salesperson will also maintain client relationships, provide excellent customer service, and meet sales targets.
+                
+                Are you a motivated individual with a knack for sales and networking? We're looking for enthusiastic salespeople to help grow our Premium Facebook Group for Job Seekers.
+
+                **Requirements**
+                No experience is needed—just hustle, heart, and honesty.
+                Anyone with good communication skills.
+                Students, job seekers, or anyone looking for extra income.
+                People who are active on social media and can promote the group.
+
+                **Closing_date**
+                Open
+
+                **Application_method**
+                Online
+
+                **Application_directions**
+                Fill out this short form to get started: https://docs.google.com/forms/d/e/1FAIpQLSeV2dwKTWQosWpYFqGlf66kUniofpK2nc6B0-bRSwV-5KCfAw/viewform
+
+                `,
+
         }
 ];
