@@ -2047,7 +2047,7 @@ const articles = [
                 `,
 
         }{
-                title: "Salesperson (Commission-based remote role)",
+                title: "SALESPERSON (COMMISSION-BASED REMOTE ROLE)",
 
                 image: "img/image1.webp",
 
