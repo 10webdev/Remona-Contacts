@@ -131,6 +131,11 @@ h1 {
     text-align: center;
 }
 
+.btn-container {
+width: 100%;
+text-align: center;
+}
+
 .btn {
     color: black;
     text-decoration: none;
