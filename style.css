@@ -147,9 +147,6 @@ h1 {
 }
 
 .btn:hover {
-    width: 40px;
-    height: 40px;
-    padding: 5px 45px;
     text-decoration: underline 2px solid gold;
     background-image: linear-gradient(to left,#836202, #000);
     color: #f1dea6;
